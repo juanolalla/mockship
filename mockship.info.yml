@@ -1,0 +1,8 @@
+name: MockShip
+type: theme
+description: 'Starter theme based on Stark, ready for using Compass.'
+version: VERSION
+core: 8.x
+core: '8.x'
+libraries:
+  - mockship/global-styling
